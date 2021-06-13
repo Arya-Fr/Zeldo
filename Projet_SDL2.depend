@@ -715,7 +715,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1621603482 source:c:\users\bianc\documents\travail\tp\zeldo\main.c
+1623602019 source:c:\users\bianc\documents\travail\tp\zeldo\main.c
 	<SDL2/SDL.h>
 	<stdio.h>
 	<stdlib.h>
@@ -1077,10 +1077,10 @@
 	"begin_code.h"
 	"close_code.h"
 
-1621600055 c:\users\bianc\documents\travail\tp\zeldo\affichage.c
+1623601314 c:\users\bianc\documents\travail\tp\zeldo\affichage.c
 	"affichage.h"
 
-1621596162 c:\users\bianc\documents\travail\tp\zeldo\affichage.h
+1623600547 c:\users\bianc\documents\travail\tp\zeldo\affichage.h
 	"type.c"
 
 1621347600 c:\users\bianc\documents\travail\tp\zeldo\type.c
