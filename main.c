@@ -191,7 +191,7 @@ int main(int argc, char** argv)
 
     int menuPos = 0;
 
-    uint8_t alpha = 0;
+    uint8_t alpha = 0 ;
 
     SDL_Event event;
 
@@ -671,6 +671,10 @@ int main(int argc, char** argv)
                             fix = 0;
                             AfficherNiveau(labyrinthe,inventaire,Joueur,numLaby,argent,clignotant,renderer,persoBas,sol,mur,vieSpecial,invPos);
                     }
+                    break;
+                case SDLK_p :
+                    fix = 0;
+                    AfficherNiveau(labyrinthe,inventaire,Joueur,numLaby,argent,clignotant,renderer,persoBas,sol,mur,vieSpecial,invPos);
                     break;
                 }
             }
